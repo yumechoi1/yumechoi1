@@ -7,7 +7,7 @@ Software Engineer
 I graduated from Duke University with a major in neuroscience and minors in computer science and psychology. I have since been working as a client-facing software developer in Appian, and I am passionate about growing my skills in full-stack software engineering.
 
 * 🌍  I'm based in Washington, DC
-* 🖥️  See my portfolio at [Yume Choi Portfolio](http://pinterest.com)
+* 🖥️  See my portfolio at [Yume Choi Portfolio](https://yumechoi1.github.io/personal-website/)
 * ✉️  You can contact me at [yumechoi17@gmail.com](mailto:yumechoi17@gmail.com)
 * 🧠  I'm learning HTML, CSS, React, and Javascript
 
